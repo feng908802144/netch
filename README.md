@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/NetchX/Netch/blob/master/Netch/Resources/Netch.png?raw=true" width="128" /></p>
+<p align="center"><img src="https://github.com/NetchX/Netch/blob/master/Netch/Resources/Netch.png?raw=true" width="128" />  一款 Windows 平台的开源游戏加速工具 </p>
 
 <div align="center">
 
